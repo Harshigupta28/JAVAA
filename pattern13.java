@@ -18,7 +18,7 @@ public class pattern13 {
             }
             row++;
             System.out.println();
-            
+            sc.close();
 
         }
 
